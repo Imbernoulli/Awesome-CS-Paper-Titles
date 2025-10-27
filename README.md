@@ -1,4 +1,5 @@
 # Awesome-CS-Paper-Titles
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 Here we collect CS papers with awesome titles to foster community creativity.
 
