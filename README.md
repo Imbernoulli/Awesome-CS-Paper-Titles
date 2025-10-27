@@ -1,6 +1,6 @@
 # Awesome-CS-Paper-Titles
 
-Here we collect CS papers with awesome titles to foster society creativity.
+Here we collect CS papers with awesome titles to foster community creativity.
 
 ## Motivated by Movie/Book Titles
 
