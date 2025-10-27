@@ -25,3 +25,9 @@ Here we collect CS papers with awesome titles to foster society creativity.
 📄 **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**
 
 👨‍💻 *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova*
+
+## Motivated by Lyrics
+
+📄 **Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs**
+
+👨‍💻 *Xuhui Zhou, Zhe Su, Tiwalayo Eisape, Hyunwoo Kim, Maarten Sap*
