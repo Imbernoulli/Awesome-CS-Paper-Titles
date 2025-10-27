@@ -27,6 +27,10 @@ Here we collect CS papers with awesome titles to foster community creativity.
 
 👨‍💻 *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova*
 
+📄 **TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression**
+
+👨‍💻 *Zhong-Zhi Li, Xiao Liang, Zihao Tang, Lei Ji, Peijie Wang, Haotian Xu, Xing W, Haizhen Huang, Weiwei Deng, Yeyun Gong, Zhijiang Guo, Xiao Liu, Fei Yin, Cheng-Lin Liu*
+
 ## Motivated by Lyrics
 
 📄 **Is this the real life? Is this just fantasy? The Misleading Success of Simulating Social Interactions With LLMs**
