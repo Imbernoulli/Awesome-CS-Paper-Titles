@@ -19,3 +19,9 @@ Here we collect CS papers with awesome titles to foster society creativity.
 📄 **The Curious Case of Neural Text Degeneration**
 
 👨‍💻 *Ari Holtzman, Jan Buys, Li Du, Maxwell Forbes, Yejin Choi*
+
+## Motivated by Acronyms
+
+📄 **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**
+
+👨‍💻 *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova*
